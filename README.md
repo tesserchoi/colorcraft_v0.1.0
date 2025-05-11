@@ -100,8 +100,6 @@ It will open the app in your browser at: `http://localhost:5173`
 
 ## ✨ Preview
 
-![ColorCraft Logo](./colorcraft_logo.png)
-
 ![ColorCraft Screenshot](./frontend/public/screenshot.png)
 
 
