@@ -100,8 +100,6 @@ It will open the app in your browser at: `http://localhost:5173`
 
 ## ✨ Preview
 
-![ColorCraft Logo](./colorcraft_logo.png)
-
 ![ColorCraft Screenshot](./frontend/public/screenshot.png)
 
 
@@ -121,6 +119,46 @@ This MVP is designed to be simple but powerful. Some ideas for future developmen
 ## 📬 Questions or Handover Support?
 
 If you’re taking over this project and have questions, please check the `/docs` folder for technical notes and handover materials. Everything is designed to be beginner-friendly and easy to pick up.
+
+---
+
+## ✨ Project Handover Invitation
+
+🌈 ColorCraft — An AI Tool That Helps Small Brands Find Their Ideal Color Palette
+
+Hi! I’m the original creator of ColorCraft, a smart and lightweight MVP built to help small brands discover their perfect brand colors using AI.
+
+I built it from the ground up — starting from zero coding experience — as a passion project to make brand identity design more approachable and fun for new businesses. It’s simple, effective, and already live as a working MVP, complete with backend, frontend, and onboarding documentation.
+
+🚀 Why I’m Handing It Off
+
+While I deeply love ColorCraft, I’ve decided to focus my time and energy on other high-priority projects that align even more closely with my long-term vision.
+
+That said, ColorCraft still feels like my baby — and I don’t want to abandon it. Instead, I’d love to hand it over to the right person or team who can give it the attention and creativity it deserves.
+
+🔍 Who I'm Looking For
+
+I’m looking for someone with more passion, creativity, and technical vision than I have — someone who sees potential in ColorCraft not just as it is, but in what it could become.
+
+Maybe you’ll evolve it into a full AI brand identity platform.  
+Maybe you’ll blend it with your own product or portfolio.  
+Maybe you’ll take it in a direction I could’ve never imagined.
+
+Whatever it becomes, I’d love to see it grow in the hands of someone who believes in it.
+
+📦 What’s Included
+
+- ✅ Live working MVP (React + Node.js)
+- ✅ Clean folder structure and clear documentation
+- ✅ One-click local reactivation instructions
+- ✅ GitHub repo: https://github.com/tesserchoi/colorcraft_v0.1.0
+- ✅ Brand logo and name included
+
+If this sparks your interest, I’d love to talk.  
+ColorCraft deserves its next chapter — and maybe you’re the one to write it.
+
+🖤  
+— Tesser
 
 ---
 
