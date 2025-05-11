@@ -33,7 +33,7 @@ colorcraft/
 ### 1. Clone the repository
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/tesserchoi/colorcraft_v0.1.0.git
 cd colorcraft
 ```
 
