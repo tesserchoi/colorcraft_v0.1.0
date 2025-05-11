@@ -1,0 +1,17 @@
+Hello there,
+
+Thank you for picking up ColorCraft!
+
+This project started as a personal journey — I wanted to build something beautiful and helpful for small brands, even though I had zero coding experience at the time. ColorCraft became my way to learn, grow, and prove to myself that you can start from nothing and still create something real.
+
+This MVP helps brands discover meaningful, personality-aligned color palettes using AI. It was built with a clean backend (Node.js + Express) and a lightweight React frontend. Everything is structured for clarity and ease of use, especially for solo developers or small teams.
+
+You're receiving:
+- The full frontend and backend source code
+- A working, tested MVP
+- A clean docs folder with the README, logo, folder structure, and this note
+
+My hope is that you’ll take ColorCraft further — whether that's scaling it, redesigning it, or using it as a foundation for something new. I’m cheering for you all the way.
+
+With all my best,
+Tesser
